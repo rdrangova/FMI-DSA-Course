@@ -1,2 +1,2 @@
-# FMI-DSA-Course
-Storing homeworks and some other things from the data structure and algorithms course
+# Data structures and algorithms
+Some choosen problems from the 2018-2019 course
